@@ -4,7 +4,7 @@ This CLI will fetch the employee Count for the given list of company names in cs
 
 # Steps to run the code
 
-1. Enter your linkedIn credentials in .env file (username and password)
+1. Create .env file in the project root and Enter your linkedIn credentials in .env file (username and password)
 2. create a virtual environment using virtualenv or pipenv and activate it
 3. place the company list (.txt) file under inputs folder
 4. download the chromedriver for google chrome and place it under driver folder
