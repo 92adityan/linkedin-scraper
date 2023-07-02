@@ -10,6 +10,7 @@ This CLI will fetch the employee Count for the given list of company names in cs
 4. download the chromedriver for google chrome and place it under driver folder
 5. pip install the dependencies from requirement.txt (pip install requirement.txt)
 6. convert the run.sh file into executable using the following command (sudo chmod +x run.sh) and run the file in the terminal
+7. output folder might be hidden orelse create output folder in the root path
 
    outputfile (output.csv) will be generated in the output folder
 
